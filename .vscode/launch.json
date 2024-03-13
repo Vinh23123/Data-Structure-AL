@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HashMap",
+      "request": "launch",
+      "mainClass": "HashTable.HashMap",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "HashSetInJava",
+      "request": "launch",
+      "mainClass": "HashTable.HashSetInJava",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "MyHashSet",
+      "request": "launch",
+      "mainClass": "HashTable.MyHashSet",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
       "name": "DecodeString_394",
       "request": "launch",
       "mainClass": "StackQueue.DecodeString_394",
