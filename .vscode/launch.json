@@ -1,0 +1,140 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DecodeString_394",
+      "request": "launch",
+      "mainClass": "StackQueue.DecodeString_394",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "MyMainTest",
+      "request": "launch",
+      "mainClass": "StackQueue.MyMainTest",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "MyMainTest",
+      "request": "launch",
+      "mainClass": "MyMainTest",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "ReverseLinkedList206",
+      "request": "launch",
+      "mainClass": "ReverseLinkedList206",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "MyLinkedList",
+      "request": "launch",
+      "mainClass": "MyLinkedList",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "quicksort",
+      "request": "launch",
+      "mainClass": "quicksort",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "SortanArray_912",
+      "request": "launch",
+      "mainClass": "SortanArray_912",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "FirstUniqueCharacterinaString_387",
+      "request": "launch",
+      "mainClass": "FirstUniqueCharacterinaString_387",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "RichestCostumerWealth_1672",
+      "request": "launch",
+      "mainClass": "RichestCostumerWealth_1672",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "practise",
+      "request": "launch",
+      "mainClass": "practise",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "Merge_Sorted_Array88",
+      "request": "launch",
+      "mainClass": "Merge_Sorted_Array88",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateZeros_1089",
+      "request": "launch",
+      "mainClass": "DuplicateZeros_1089",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "SquaresofaSortedArray_977",
+      "request": "launch",
+      "mainClass": "SquaresofaSortedArray_977",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "bubblesort",
+      "request": "launch",
+      "mainClass": "bubblesort",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "FindNumberswithEvenNumberofDigits_1295",
+      "request": "launch",
+      "mainClass": "FindNumberswithEvenNumberofDigits_1295",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "remove_27",
+      "request": "launch",
+      "mainClass": "remove_27",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "remove",
+      "request": "launch",
+      "mainClass": "remove",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "thuattoan_f72e703b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
